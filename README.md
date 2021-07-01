@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeireTorices
 - 👀 I’m interested in cancer genetics, molecular biology, machine learning...
-- 🌱 I’m currently learning Pyhton and R programming
+- 🌱 I’m currently learning Python and R programming
 - 💞️ I’m looking to collaborate on applied bioinformatics and biological data mining
 - 📫 How to reach me toricesleire@gmail.com
 
